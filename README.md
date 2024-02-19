@@ -9,9 +9,13 @@ I mostly do stuff in an [organization](https://github.com/laurelin60/) I made wi
 #### OREOS TIER LIST 
 
 1.) double stuf 
+
 2.) og
+
 3.) peanut butter
+
 4.) mega stuf
+
 5.) mint (tastes kinda like toothpaste, edible tho)
 
 <!--
