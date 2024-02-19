@@ -1,4 +1,4 @@
-### Hi, I'm Uno!
+# Hi, I'm Uno!
 
 Coincidentially, I also enjoy a similarly named card game. 
 
@@ -6,7 +6,7 @@ I make things sometimes. I enjoy application reverse engineering and low-level p
 
 I mostly do stuff in an [organization](https://github.com/laurelin60/) I made with some friends.
 
-#### OREOS TIER LIST 
+### OREOS TIER LIST 
 
 1.) double stuf 
 
