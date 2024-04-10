@@ -6,6 +6,14 @@ I make things sometimes. I enjoy application reverse engineering and low-level p
 
 I mostly do stuff in an [organization](https://github.com/laurelin60/) I made with some friends.
 
+### Hackathons 
+
+I like going to hackathons for fun (also there's free food). Here's my [Devpost](https://devpost.com/wpasadhi).
+
+Hackathon wins (1st):  2
+Hackathons wins (all): 3 
+Hackathons attended:   4
+
 ### OREOS TOP 5
 
 1.) double stuf 
