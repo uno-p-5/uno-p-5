@@ -8,7 +8,8 @@ I mostly do stuff in an [organization](https://github.com/laurelin60/) I made wi
 
 ### Hackathons 
 
-I like going to hackathons for fun (also there's free food). Here's my Devopost:
+I like going to hackathons for fun (also there's free food). Here's my Devpost:
+
 [![Devpost](https://img.shields.io/badge/Devpost-Profile-003E54?style=flat-square&logo=devpost&logoColor=white)](https://devpost.com/wpasadhi)
 
 Hackathon wins (1st):  2
