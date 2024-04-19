@@ -18,6 +18,8 @@ Hackathons wins (all): 3
 
 Hackathons attended:   4
 
+(only counting stuff on devpost)
+
 ## OREOS TOP 5
 
 1.) double stuf 
