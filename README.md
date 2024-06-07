@@ -1,5 +1,5 @@
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/uno-p-5/uno-p-5/blob/main/AMOGUS.gif');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/uno-p-5/uno-p-5/main/AMOGUS.gif');]{x0000}$}
 ```
 
 # Hi, I'm Uno!
