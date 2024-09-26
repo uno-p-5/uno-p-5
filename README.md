@@ -14,11 +14,11 @@ I like going to hackathons for fun (also there's free food). Here's my Devpost:
 
 Hackathon wins (1st):  2
 
-Hackathons wins (all): 3 
+Hackathons wins (all): 4 
 
-Hackathons attended:   4
+Hackathons attended:   5
 
-(only counting stuff on devpost)
+(only counting stuff on devpost and HackMIT)
 
 ## OREOS TOP 5
 
