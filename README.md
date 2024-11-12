@@ -30,7 +30,7 @@ Hackathons attended:   5
 
 4.) mega stuf
 
-5.) mint (tastes kinda like toothpaste, edible tho)
+5.) mint (tastes kinda like toothpaste. Edible, but the Trader Joe's peppermint candy cane ones are infinitely better)
 
 <!--
 **uno-p-5/uno-p-5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
