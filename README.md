@@ -12,14 +12,6 @@ I like going to hackathons for fun (also there's free food). Here's my Devpost:
 
 [![Devpost](https://img.shields.io/badge/Devpost-Profile-003E54?style=flat-square&logo=devpost&logoColor=white)](https://devpost.com/wpasadhi)
 
-Hackathon wins (1st):  2
-
-Hackathons wins (all): 4 
-
-Hackathons attended:   5
-
-(only counting stuff on devpost and HackMIT)
-
 ## OREOS TOP 5
 
 1.) double stuf 
